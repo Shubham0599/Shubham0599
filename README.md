@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="25px"> I’m currently studing in NIT Meghalaya
-- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd14R/giphy.gif" width="25px">I’m currently working on a many Web Dev Projects
+- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd14R/giphy.gif" width="25px">I’m currently working on many Web Dev Projects
 - 🌱 I’m currently learning Everything 😄
 
 - 💬 Ask me about Wed Dev
