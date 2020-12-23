@@ -34,5 +34,5 @@ Here are some ideas to get you started: -->
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shubham0599&show_icons=true&theme=tokyonight&hide_title=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shubham0599&show_icons=true&theme=merko&hide_title=true)
 
