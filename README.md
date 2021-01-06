@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="25px"> I’m currently currently in NIT Meghalaya
-- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd14R/giphy.gif" width="25px">I’m currently working on a many Web Dev Projects
+- <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="25px"> I’m currently studing in NIT Meghalaya
+- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd14R/giphy.gif" width="25px">I’m currently working on many Web Dev Projects
 - 🌱 I’m currently learning Everything 😄
 
 - 💬 Ask me about Wed Dev
@@ -34,6 +34,6 @@ Here are some ideas to get you started: -->
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shubham0599)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shubham0599&show_icons=true&theme=highcontrast&hide_title=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shuham0599" alt="Shubham Anand" /> </p>
