@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - <img src="https://media.giphy.com/media/cIEHecATPqz9SVd14R/giphy.gif" width="25px"> I’m currently working in Samsung as a R&D Engineer
-- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd24R/giphy.gif" width="25px">Love collaborating with Developers for awesom Projects
+- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd24R/giphy.gif" width="25px">I Love collaborating on Web D Projects 
 - 🌱 I’m currently learning Everything 😄
 
 - 💬 Ask me about Wed Dev , Android and Advice is always Free
