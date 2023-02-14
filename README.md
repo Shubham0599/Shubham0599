@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- <img src="https://media.giphy.com/media/gjxYwnMG7Mocmc75DM/giphy.gif" width="25px"> I’m currently working in Samsung as a R&D Engineer
-- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd14R/giphy.gif" width="25px">Love collaborating with Developers for awesom Projects
+- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd14R/giphy.gif" width="25px"> I’m currently working in Samsung as a R&D Engineer
+- <img src="https://media.giphy.com/media/cIEHecATPqz9SVd24R/giphy.gif" width="25px">Love collaborating with Developers for awesom Projects
 - 🌱 I’m currently learning Everything 😄
 
-- 💬 Ask me about Wed Dev
+- 💬 Ask me about Wed Dev , Android and Advice is always Free
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/shubham-anand-3a714a1a3/">Linkedin</a>
 - <img src="https://media.giphy.com/media/3ddTm1AjGXu1BPZLVZ/giphy.gif" width="25px" >  Fun fact: I love exploring new things
 
